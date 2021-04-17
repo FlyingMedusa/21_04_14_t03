@@ -8,7 +8,7 @@ def read_root():
     return {"message": "Hello world!"}
 
 @app.get("/auth")
-def decrypt(response: Response, password: str = '', password_hash: str = '0'):
+def decrypt(response: Response, password: str = '', password_hash: str = ''):
     encrypted_password = hashlib.sha512(password.encode("utf-8")).hexdigest()
     if password_hash == encrypted_password:
         response.status_code = status.HTTP_204_NO_CONTENT
