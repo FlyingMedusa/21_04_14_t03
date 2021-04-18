@@ -15,7 +15,7 @@ class RegisteredUser():
     newid = itertools.count()
 
     def __init__(self, name, surname):
-        self.id = next(RegisteredUser.newid)
+        self.id = int(next(RegisteredUser.newid)) + 1
         self.name = name
         self.surname = surname
         self.register_date = str(date.today())
