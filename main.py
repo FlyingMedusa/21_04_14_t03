@@ -23,7 +23,7 @@ class RegisteredUser():
     
     def generate_vacc_date(self):
         delay = len(self.name) + len(self.surname)
-        vaccination_date = datetime.fromisoformat(self.register_date) + timedelta(days=10)
+        vaccination_date = datetime.fromisoformat(self.register_date) + timedelta(days=delay)
         return vaccination_date.date()
     
     def register_user(self):
