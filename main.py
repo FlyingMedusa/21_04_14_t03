@@ -1,5 +1,8 @@
 from fastapi import FastAPI, Request, Response, status
 import hashlib
+from fastapi.responses import JSONResponse
+from pydantic import BaseModel
+
 
 app = FastAPI()
 
@@ -14,5 +17,9 @@ def decrypt(response: Response, password: str = '', password_hash: str = ''):
         response.status_code = status.HTTP_204_NO_CONTENT
     else:
         response.status_code = status.HTTP_401_UNAUTHORIZED
-
     return response
+
+@app.put("/register")
+def update_item(name: str, surname: str):
+    json_compatible_item_data = jsonable_encoder(name)
+    return JSONResponse(content=json_compatible_item_data)
