@@ -21,7 +21,7 @@
     
     
     
-    <link crossorigin="anonymous" media="all" integrity="sha512-jwBYUxqprx41tQNH6cHa5hstFU5zfAXqkSV/bH7blW3KatkwF8wTNJMwb+ftMU70DC3FNTixnQ/uUWIiHhCPIQ==" rel="stylesheet" href="https://github.githubassets.com/assets/github-8f0058531aa9af1e35b50347e9c1dae6.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-ZALWtv1kOaT0UBdNi8Fv4ZmZmV8HfkIPYkQWilW0B4Yg/R4+W3No2FSZ4brvptofB42qt/Zfqczsq9TdzA6HIw==" rel="stylesheet" href="https://github.githubassets.com/assets/github-6402d6b6fd6439a4f450174d8bc16fe1.css" />
 
   <script crossorigin="anonymous" defer="defer" integrity="sha512-CzeY4A6TiG4fGZSWZU8FxmzFFmcQFoPpArF0hkH0/J/S7UL4eed/LKEXMQXfTwiG5yEJBI+9BdKG8KQJNbhcIQ==" type="application/javascript" src="https://github.githubassets.com/assets/environment-0b3798e0.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-E+MNpR1dyNE0hrMBGq4WFHHe3UIkcQU59XV5Pdzb3m0JUo5PcRrFRSWQTHDA5388RHiBHVOcm5EaaoRNa86bLw==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-frameworks-13e30da5.js"></script>
@@ -60,19 +60,19 @@
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/2da2738157c1df50168bb7e584acc3f8faf0505670fc1805d8bc4fb317c60532/ritaly/kursPython2021" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="ritaly/kursPython2021" /><meta name="twitter:description" content="Contribute to ritaly/kursPython2021 development by creating an account on GitHub." />
-    <meta property="og:image" content="https://opengraph.githubassets.com/2da2738157c1df50168bb7e584acc3f8faf0505670fc1805d8bc4fb317c60532/ritaly/kursPython2021" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="ritaly/kursPython2021" /><meta property="og:url" content="https://github.com/ritaly/kursPython2021" /><meta property="og:description" content="Contribute to ritaly/kursPython2021 development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/6055538ed238dd13a64880c10d88c43bed7bb7e1394ca5a25ce59feea17ce9d8/ritaly/kursPython2021" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="ritaly/kursPython2021" /><meta name="twitter:description" content="Contribute to ritaly/kursPython2021 development by creating an account on GitHub." />
+    <meta property="og:image" content="https://opengraph.githubassets.com/6055538ed238dd13a64880c10d88c43bed7bb7e1394ca5a25ce59feea17ce9d8/ritaly/kursPython2021" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="ritaly/kursPython2021" /><meta property="og:url" content="https://github.com/ritaly/kursPython2021" /><meta property="og:description" content="Contribute to ritaly/kursPython2021 development by creating an account on GitHub." />
 
 
 
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/56235154/ws?session=eyJ2IjoiVjMiLCJ1Ijo1NjIzNTE1NCwicyI6NjgxNDE3Mzc3LCJjIjozNzk0MTAwMzU1LCJ0IjoxNjE4OTQ5NDUwfQ==--ad3280999c9d871fb4936f900fd3a6f05a7ab0f315cb2618166cbe7911c60cb9" data-refresh-url="/_alive" data-session-id="c2eb82af4c7cf55c2e6d03a6f1be13dfd452c6a53c7a4c3acf8c0bf5c857794d">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/56235154/ws?session=eyJ2IjoiVjMiLCJ1Ijo1NjIzNTE1NCwicyI6NjgxNDE3Mzc3LCJjIjoyMTA4MDUxMTQ4LCJ0IjoxNjE4OTUxNzU2fQ==--53dd87555eb50dd4c8fbf13e11307d9a2d02657ce2be7e4765399da01e9473d5" data-refresh-url="/_alive" data-session-id="c2eb82af4c7cf55c2e6d03a6f1be13dfd452c6a53c7a4c3acf8c0bf5c857794d">
     <link rel="shared-web-socket-src" href="/socket-worker-3f088aa2.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="6CE7:12F92:1491A9:15281F:607F3546" data-pjax-transient="true" /><meta name="html-safe-nonce" content="28160e318a1798884b7f52b8230f11209207381f21c71e592bd92e375ca83d3b" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9yaXRhbHkva3Vyc1B5dGhvbjIwMjEiLCJyZXF1ZXN0X2lkIjoiNkNFNzoxMkY5MjoxNDkxQTk6MTUyODFGOjYwN0YzNTQ2IiwidmlzaXRvcl9pZCI6IjQ1MzY0ODI3NzIxMTAxMzYyMCIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="b31bc08a7b00564ff27251530044a1f65af16d427380acfe707092ec47714d74" data-pjax-transient="true" />
+  <meta name="request-id" content="6D41:3C9A:57D80:6201C:607F3E45" data-pjax-transient="true" /><meta name="html-safe-nonce" content="28160e318a1798884b7f52b8230f11209207381f21c71e592bd92e375ca83d3b" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9yaXRhbHkva3Vyc1B5dGhvbjIwMjEiLCJyZXF1ZXN0X2lkIjoiNkQ0MTozQzlBOjU3RDgwOjYyMDFDOjYwN0YzRTQ1IiwidmlzaXRvcl9pZCI6IjQ1MzY0ODI3NzIxMTAxMzYyMCIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="fc43bda8366c7b9efece4ed36f6113bc2bcd818c7012136d12a1d2c82251d116" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:339819428" data-pjax-transient>
 
@@ -99,7 +99,7 @@
   <meta name="optimizely-datafile" content="{&quot;version&quot;: &quot;4&quot;, &quot;rollouts&quot;: [], &quot;typedAudiences&quot;: [], &quot;anonymizeIP&quot;: true, &quot;projectId&quot;: &quot;16737760170&quot;, &quot;variables&quot;: [], &quot;featureFlags&quot;: [], &quot;experiments&quot;: [{&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;20074632366&quot;, &quot;key&quot;: &quot;redesign_variation&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;20073847969&quot;, &quot;key&quot;: &quot;control&quot;}], &quot;id&quot;: &quot;20064690055&quot;, &quot;key&quot;: &quot;signup_redesign&quot;, &quot;layerId&quot;: &quot;20078212122&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;20073847969&quot;, &quot;endOfRange&quot;: 250}, {&quot;entityId&quot;: &quot;20074632366&quot;, &quot;endOfRange&quot;: 500}, {&quot;entityId&quot;: &quot;20073847969&quot;, &quot;endOfRange&quot;: 1000}, {&quot;entityId&quot;: &quot;20073847969&quot;, &quot;endOfRange&quot;: 1500}, {&quot;entityId&quot;: &quot;20074632366&quot;, &quot;endOfRange&quot;: 2000}, {&quot;entityId&quot;: &quot;20074632366&quot;, &quot;endOfRange&quot;: 2500}, {&quot;entityId&quot;: &quot;&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;&quot;, &quot;endOfRange&quot;: 6000}, {&quot;entityId&quot;: &quot;&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {&quot;16822470375&quot;: &quot;redesign_variation&quot;, &quot;869480852.1618267728&quot;: &quot;redesign_variation&quot;, &quot;1818695511.1575996036&quot;: &quot;redesign_variation&quot;}}], &quot;audiences&quot;: [{&quot;conditions&quot;: &quot;[\&quot;or\&quot;, {\&quot;match\&quot;: \&quot;exact\&quot;, \&quot;name\&quot;: \&quot;$opt_dummy_attribute\&quot;, \&quot;type\&quot;: \&quot;custom_attribute\&quot;, \&quot;value\&quot;: \&quot;$opt_dummy_value\&quot;}]&quot;, &quot;id&quot;: &quot;$opt_dummy_audience&quot;, &quot;name&quot;: &quot;Optimizely-Generated Audience for Backwards Compatibility&quot;}], &quot;groups&quot;: [{&quot;policy&quot;: &quot;random&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;20065350824&quot;, &quot;endOfRange&quot;: 10000}], &quot;experiments&quot;: [{&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;20061181493&quot;, &quot;key&quot;: &quot;control&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;20046091568&quot;, &quot;key&quot;: &quot;most_popular&quot;}], &quot;id&quot;: &quot;20065350824&quot;, &quot;key&quot;: &quot;pricing_page&quot;, &quot;layerId&quot;: &quot;20047761391&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;20061181493&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;20046091568&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {&quot;890b7acea08c1711c74beff6bd78b5e7&quot;: &quot;control&quot;, &quot;235830406.1616679911&quot;: &quot;control&quot;, &quot;167363014.1617810094&quot;: &quot;most_popular&quot;, &quot;f7d5ee986ba8bcc155e2393401c920f7&quot;: &quot;most_popular&quot;, &quot;2022915492.1615428687&quot;: &quot;most_popular&quot;, &quot;1006574531.1617036769&quot;: &quot;control&quot;, &quot;1693726779.1607624005&quot;: &quot;most_popular&quot;, &quot;b3d9f4f9910bc46c43a8d65ab83d8570&quot;: &quot;most_popular&quot;, &quot;1800070736.1616613011&quot;: &quot;control&quot;}}], &quot;id&quot;: &quot;19972601768&quot;}], &quot;attributes&quot;: [{&quot;id&quot;: &quot;16822470375&quot;, &quot;key&quot;: &quot;user_id&quot;}, {&quot;id&quot;: &quot;17143601254&quot;, &quot;key&quot;: &quot;spammy&quot;}, {&quot;id&quot;: &quot;18175660309&quot;, &quot;key&quot;: &quot;organization_plan&quot;}, {&quot;id&quot;: &quot;18813001570&quot;, &quot;key&quot;: &quot;is_logged_in&quot;}, {&quot;id&quot;: &quot;19073851829&quot;, &quot;key&quot;: &quot;geo&quot;}, {&quot;id&quot;: &quot;20175462351&quot;, &quot;key&quot;: &quot;requestedCurrency&quot;}], &quot;botFiltering&quot;: false, &quot;accountId&quot;: &quot;16737760170&quot;, &quot;events&quot;: [{&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;17911811441&quot;, &quot;key&quot;: &quot;hydro_click.dashboard.teacher_toolbox_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18124116703&quot;, &quot;key&quot;: &quot;submit.organizations.complete_sign_up&quot;}, {&quot;experimentIds&quot;: [&quot;20064690055&quot;], &quot;id&quot;: &quot;18145892387&quot;, &quot;key&quot;: &quot;no_metric.tracked_outside_of_optimizely&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18178755568&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.add_repo&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18180553241&quot;, &quot;key&quot;: &quot;submit.repository_imports.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18186103728&quot;, &quot;key&quot;: &quot;click.help.learn_more_about_repository_creation&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18188530140&quot;, &quot;key&quot;: &quot;test_event.do_not_use_in_production&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18191963644&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.transfer_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18195612788&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.import_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18210945499&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.invite_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18211063248&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.create_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18215721889&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.update_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18224360785&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.dismiss&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18234832286&quot;, &quot;key&quot;: &quot;submit.organization_activation.complete&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18252392383&quot;, &quot;key&quot;: &quot;submit.org_repository.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18257551537&quot;, &quot;key&quot;: &quot;submit.org_member_invitation.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18259522260&quot;, &quot;key&quot;: &quot;submit.organization_profile.update&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18564603625&quot;, &quot;key&quot;: &quot;view.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18568612016&quot;, &quot;key&quot;: &quot;click.classroom_sign_in_click&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18572592540&quot;, &quot;key&quot;: &quot;view.classroom_name&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18574203855&quot;, &quot;key&quot;: &quot;click.classroom_create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18582053415&quot;, &quot;key&quot;: &quot;click.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18589463420&quot;, &quot;key&quot;: &quot;click.classroom_create_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591323364&quot;, &quot;key&quot;: &quot;click.classroom_create_first_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591652321&quot;, &quot;key&quot;: &quot;click.classroom_grant_access&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18607131425&quot;, &quot;key&quot;: &quot;view.classroom_creation&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18831680583&quot;, &quot;key&quot;: &quot;upgrade_account_plan&quot;}, {&quot;experimentIds&quot;: [&quot;20065350824&quot;], &quot;id&quot;: &quot;19064064515&quot;, &quot;key&quot;: &quot;click.signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19075373687&quot;, &quot;key&quot;: &quot;click.view_account_billing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19077355841&quot;, &quot;key&quot;: &quot;click.dismiss_signup_prompt&quot;}, {&quot;experimentIds&quot;: [&quot;20065350824&quot;], &quot;id&quot;: &quot;19079713938&quot;, &quot;key&quot;: &quot;click.contact_sales&quot;}, {&quot;experimentIds&quot;: [&quot;20065350824&quot;], &quot;id&quot;: &quot;19120963070&quot;, &quot;key&quot;: &quot;click.compare_account_plans&quot;}, {&quot;experimentIds&quot;: [&quot;20065350824&quot;], &quot;id&quot;: &quot;19151690317&quot;, &quot;key&quot;: &quot;click.upgrade_account_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19424193129&quot;, &quot;key&quot;: &quot;click.open_account_switcher&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19520330825&quot;, &quot;key&quot;: &quot;click.visit_account_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19540970635&quot;, &quot;key&quot;: &quot;click.switch_account_context&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19730198868&quot;, &quot;key&quot;: &quot;submit.homepage_signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19820830627&quot;, &quot;key&quot;: &quot;click.homepage_signup&quot;}, {&quot;experimentIds&quot;: [&quot;20065350824&quot;], &quot;id&quot;: &quot;19988571001&quot;, &quot;key&quot;: &quot;click.create_enterprise_trial&quot;}, {&quot;experimentIds&quot;: [&quot;20065350824&quot;], &quot;id&quot;: &quot;20036538294&quot;, &quot;key&quot;: &quot;click.create_organization_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20040653299&quot;, &quot;key&quot;: &quot;click.input_enterprise_trial_form&quot;}, {&quot;experimentIds&quot;: [&quot;20065350824&quot;], &quot;id&quot;: &quot;20062030003&quot;, &quot;key&quot;: &quot;click.continue_with_team&quot;}, {&quot;experimentIds&quot;: [&quot;20065350824&quot;], &quot;id&quot;: &quot;20068947153&quot;, &quot;key&quot;: &quot;click.create_organization_free&quot;}, {&quot;experimentIds&quot;: [&quot;20064690055&quot;], &quot;id&quot;: &quot;20086636658&quot;, &quot;key&quot;: &quot;click.signup_continue.username&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20091648988&quot;, &quot;key&quot;: &quot;click.signup_continue.create_account&quot;}, {&quot;experimentIds&quot;: [&quot;20064690055&quot;], &quot;id&quot;: &quot;20103637615&quot;, &quot;key&quot;: &quot;click.signup_continue.email&quot;}, {&quot;experimentIds&quot;: [&quot;20064690055&quot;], &quot;id&quot;: &quot;20111574253&quot;, &quot;key&quot;: &quot;click.signup_continue.password&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20120044111&quot;, &quot;key&quot;: &quot;view.pricing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20152062109&quot;, &quot;key&quot;: &quot;submit.create_account&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20165800992&quot;, &quot;key&quot;: &quot;submit.upgrade_payment_form&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20171520319&quot;, &quot;key&quot;: &quot;submit.create_organization&quot;}], &quot;revision&quot;: &quot;600&quot;}" />
   <!-- To prevent page flashing, the optimizely JS needs to be loaded in the
     <head> tag before the DOM renders -->
-  <script crossorigin="anonymous" defer="defer" integrity="sha512-AWp3TO4EboNJE7uGXVx49dbLr+Dm1r6rCtzTJXJ1v0WO/PL5bU+jJdoem5xQJRWCvYfUjiAs//0RxbMUxmaoJw==" type="application/javascript" src="https://github.githubassets.com/assets/optimizely-016a774c.js"></script>
+  <script crossorigin="anonymous" defer="defer" integrity="sha512-+B/sUnOMqB/HP7ia2/8Aepv6fNkZvIfzJNXwL2TkiqXfDN8qoKdkapxxB92k5CDwOMdoGmfBn16nK+Xm5Zyg8A==" type="application/javascript" src="https://github.githubassets.com/assets/optimizely-f81fec52.js"></script>
 
 
 
@@ -111,11 +111,11 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="YTNkMjc5ZjRlZmYyMjA5YzIzZTFlZDVjZWE3ODA2YWZkOTJhY2M5OTNjZWIwNjViZWQ0OTkzMDA1OTZkOWU1Nnx7InJlbW90ZV9hZGRyZXNzIjoiMTA5LjE3My4yMTguMjUiLCJyZXF1ZXN0X2lkIjoiNkNFNzoxMkY5MjoxNDkxQTk6MTUyODFGOjYwN0YzNTQ2IiwidGltZXN0YW1wIjoxNjE4OTQ5NDUwLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+      <meta name="js-proxy-site-detection-payload" content="MzlkMTY4ZWJmY2RhMTUyNGI1ZGIxZjdjZDhhODgxNmYxMGVmOWVjZWYyNTRhY2RkMzE4ZjcwMWFlMjRlNTI0OHx7InJlbW90ZV9hZGRyZXNzIjoiMTA5LjE3My4yMTguMjUiLCJyZXF1ZXN0X2lkIjoiNkQ0MTozQzlBOjU3RDgwOjYyMDFDOjYwN0YzRTQ1IiwidGltZXN0YW1wIjoxNjE4OTUxNzU2LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,JS_HTTP_CACHE_HEADERS,AUTOCOMPLETE_EMOJIS_IN_MARKDOWN_EDITOR,ACTIONS_CONCURRENCY_UI">
 
-  <meta http-equiv="x-pjax-version" content="ec51ab03b7b6953b31e5e883f4cf839e5442294fd5aedc3a63557ee2bfe7245a">
+  <meta http-equiv="x-pjax-version" content="e099f0bea0fd348f39654d2cbdd5e016130b3809a166712ffde2f2e3b1d7be7b">
   
 
     
@@ -199,7 +199,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" value="aL6A29xQdzq9NnA96kjIFsfR26DeOHHj8VuoPG6v8aqvsbnm5iugQX0iNvH9pL8/5W4z2N+MZE2tR7J/8d/qrA==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" value="kz86mDMte2t9TSN7jFgnrFHe/8odc6BEFV2fqHTtK6ZUMAOlCVasEL1ZZbebtFCFc2EXshzHtepJQYXr650woA==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -387,7 +387,7 @@
       <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/56235154?s=40&amp;v=4" width="20" height="20" alt="@FlyingMedusa" />
       FlyingMedusa
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="GbVXpy8e1HR+Rp0XpltNxOl1iD3EjHsIcGOLg+WeZKgYLnMrnBXGIYC8N4lBiPW99yudFfxMblGFOvBHMPoxSw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="sYH6Ty43Z4zREiy4Ld0XhpEN8d8UrKfjYsfnJJHjmr2wGt7DnTx12S/ohibKDq//j1Pk9yxssrqXnpzgRIfPXg==" />
       <button type="submit" class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade-15 d-md-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path></svg>
         Sign out
@@ -411,7 +411,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NTYyMzUxNTQiLCJ0IjoxNjE4OTQ5NDUwfQ==--c8897cc2a1823fe56a9c9caf00c93fb6ae054fa0071fb378589f6d284a18125d">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NTYyMzUxNTQiLCJ0IjoxNjE4OTUxNzU2fQ==--3c62ce2bb721c3ee9e36f64a8b855a5934ccb287f5e682797ac89854bad27a55">
         <a href="/notifications"
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
           
@@ -625,7 +625,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="OBAe48kKda5yMXiG+rhogt/FUBezOIKoCxpcsGvqL++kwU4tsfnf2QYOqnUNemdxMPL4/BDUA83DjlILl25nxg==" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="KE4QHXSJvjJvtI+HymCTMmiGr/PQorT1UqmTKfVvdEu0n0DTDHoURRuLXXQ9opzBh7EHGHNONZCaPZ2SCes8Yg==" />
 
                 <input type="hidden" name="repository_id" value="339819428">
 
@@ -727,7 +727,7 @@
 
         <details-dialog class="notifications-component-dialog " data-target="notifications-list-subscription-form.customDialog" hidden>
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="rZhaimF31oLkWNKfvnOG2x92IUYqAZl+aWkwLkYsUO0xSQpEGYR89ZBnAGxJsYko8EGJrYntGBuh/T6VuqgYxA==" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="4ZKZAYO3gnt5jxgAs4jjSVLtzF7QEIc+S2w3CuJO2dF9Q8nP+0QoDA2wyvNESuy6vdpktXP8BluD+DmxHsqR+A==" />
 
               <input type="hidden" name="repository_id" value="339819428">
 
@@ -865,7 +865,7 @@
 
   <li>
         <div class="d-block js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/ritaly/kursPython2021/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="VOdMJ53spK5eKv0+KfrhoXsSuDVDc2SNCMzArTEy23LA5p3nrSipEwsxT3WUS4tJN+4T1AEBwobd0NOplTkcOw==" />
+    <form class="starred js-social-form" action="/ritaly/kursPython2021/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="0ns/J3jHjlW/MH6cABvP208No8E5puPv1QQf+mBYk4dGeu7nSAOD6OorzNe9qqUzA/EIIHvUReQAGAz+xFNUzg==" />
       <input type="hidden" name="context" value="repository">
       <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar ritaly/kursPython2021" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:339819428,&quot;originating_url&quot;:&quot;https://github.com/ritaly/kursPython2021/blob/main/concept.py&quot;,&quot;user_id&quot;:56235154}}" data-hydro-click-hmac="a1c6e61d930975c554363035fbe020c4b6471c2503982f758148a6bd0a7b361e" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star-fill mr-1" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path></svg>
         <span>
@@ -875,7 +875,7 @@
            0
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/ritaly/kursPython2021/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="vqao1V09A9TYmiFBn0oJdaNo3nuiaDO7C4PB69rLM69VRAdj5Ti0yjTN9KlMEFLv4LcMz1nAuNQZQppl0q93Ag==" />
+    <form class="unstarred js-social-form" action="/ritaly/kursPython2021/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="yZ144pD90u8v989WaxDFSOFWLIeXchhpFNLLrNcOgQsif9dUKPhl8cOgGr64Sp7Soon+M2zakwYGE5Ai32rFpg==" />
       <input type="hidden" name="context" value="repository">
       <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star ritaly/kursPython2021" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:339819428,&quot;originating_url&quot;:&quot;https://github.com/ritaly/kursPython2021/blob/main/concept.py&quot;,&quot;user_id&quot;:56235154}}" data-hydro-click-hmac="753fa6592075f4bc7803323e2594364a7fb1c8f6cd07c21c2dfb15b8807b361e" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star mr-1" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
         <span>
@@ -889,7 +889,7 @@
   </li>
 
   <li>
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/ritaly/kursPython2021/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ooeAB8B7VdZ8yPEPL7cITqhPkdlw8t4seYxvczNJ/QHBMuIQ0gGvO01+Ts561r84MZi8VTQ0rDb1WpDCbt2HIw==" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/ritaly/kursPython2021/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="UaTDqrq6HEE4HwJ2OLQspyk6fuQ5+RVsECrhMjqXftMyEaG9qMDmrAmpvbdt1ZvRsO1TaH0/Z3ac/B6DZwME8Q==" />
               <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:339819428,&quot;originating_url&quot;:&quot;https://github.com/ritaly/kursPython2021/blob/main/concept.py&quot;,&quot;user_id&quot;:56235154}}" data-hydro-click-hmac="1735d50ca2aadcd8f91167007c2a3572db79d11420d44c2ca9fd6a5af1cb5933" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of ritaly/kursPython2021 to your account" aria-label="Fork your own copy of ritaly/kursPython2021 to your account">                <svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
                 Fork
 </button></form>
@@ -1039,9 +1039,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/ritaly/kursPython2021/blob/0f272e706c10257ef1f2b7270bd48e1ee500d792/concept.py">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/ritaly/kursPython2021/blob/4690191b6ce6ef9f5215ce003edfc0e72c5cdb84/concept.py">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:4ef2c03805602468cf16409e5108b2222dcdae4a3de5c5d07d14df9ecba44887 -->
+    <!-- blob contrib key: blob_contributors:v22:6900e3f8d19ff40f81a867af8c7bd450ee333272e01bd81f822a5feb69d4a092 -->
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
       
@@ -1228,17 +1228,25 @@
               <svg class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
               <span class="flex-auto css-truncate-target" data-menu-button-text>register_user</span>
               <span class="flex-auto d-flex flex-justify-end">Function</span>
-</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:339819428,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;originating_url&quot;:&quot;https://github.com/ritaly/kursPython2021/blob/main/concept.py&quot;,&quot;user_id&quot;:56235154}}" data-hydro-click-hmac="77f8363ff5c1f93e26b2d98b55e7583602459acae0a55e7ca3053fc74770ec98" href="/ritaly/kursPython2021/blob/main/concept.py#L43">
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:339819428,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;originating_url&quot;:&quot;https://github.com/ritaly/kursPython2021/blob/main/concept.py&quot;,&quot;user_id&quot;:56235154}}" data-hydro-click-hmac="77f8363ff5c1f93e26b2d98b55e7583602459acae0a55e7ca3053fc74770ec98" href="/ritaly/kursPython2021/blob/main/concept.py#L39">
+              <svg class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>get_patient_by_id</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:339819428,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;originating_url&quot;:&quot;https://github.com/ritaly/kursPython2021/blob/main/concept.py&quot;,&quot;user_id&quot;:56235154}}" data-hydro-click-hmac="77f8363ff5c1f93e26b2d98b55e7583602459acae0a55e7ca3053fc74770ec98" href="/ritaly/kursPython2021/blob/main/concept.py#L50">
               <svg class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
               <span class="flex-auto css-truncate-target" data-menu-button-text>read_root</span>
               <span class="flex-auto d-flex flex-justify-end">Function</span>
-</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:339819428,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;originating_url&quot;:&quot;https://github.com/ritaly/kursPython2021/blob/main/concept.py&quot;,&quot;user_id&quot;:56235154}}" data-hydro-click-hmac="77f8363ff5c1f93e26b2d98b55e7583602459acae0a55e7ca3053fc74770ec98" href="/ritaly/kursPython2021/blob/main/concept.py#L48">
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:339819428,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;originating_url&quot;:&quot;https://github.com/ritaly/kursPython2021/blob/main/concept.py&quot;,&quot;user_id&quot;:56235154}}" data-hydro-click-hmac="77f8363ff5c1f93e26b2d98b55e7583602459acae0a55e7ca3053fc74770ec98" href="/ritaly/kursPython2021/blob/main/concept.py#L55">
               <svg class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
               <span class="flex-auto css-truncate-target" data-menu-button-text>decrypt</span>
               <span class="flex-auto d-flex flex-justify-end">Function</span>
-</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:339819428,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;originating_url&quot;:&quot;https://github.com/ritaly/kursPython2021/blob/main/concept.py&quot;,&quot;user_id&quot;:56235154}}" data-hydro-click-hmac="77f8363ff5c1f93e26b2d98b55e7583602459acae0a55e7ca3053fc74770ec98" href="/ritaly/kursPython2021/blob/main/concept.py#L58">
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:339819428,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;originating_url&quot;:&quot;https://github.com/ritaly/kursPython2021/blob/main/concept.py&quot;,&quot;user_id&quot;:56235154}}" data-hydro-click-hmac="77f8363ff5c1f93e26b2d98b55e7583602459acae0a55e7ca3053fc74770ec98" href="/ritaly/kursPython2021/blob/main/concept.py#L65">
               <svg class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
               <span class="flex-auto css-truncate-target" data-menu-button-text>create_user</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:339819428,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;originating_url&quot;:&quot;https://github.com/ritaly/kursPython2021/blob/main/concept.py&quot;,&quot;user_id&quot;:56235154}}" data-hydro-click-hmac="77f8363ff5c1f93e26b2d98b55e7583602459acae0a55e7ca3053fc74770ec98" href="/ritaly/kursPython2021/blob/main/concept.py#L79">
+              <svg class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>get_patient</span>
               <span class="flex-auto d-flex flex-justify-end">Function</span>
 </a>        </div>
       </div>
@@ -1292,7 +1300,7 @@
               </clipboard-copy>
             </li>
             <li>
-              <clipboard-copy value="https://github.com/ritaly/kursPython2021/blob/0f272e706c10257ef1f2b7270bd48e1ee500d792/concept.py" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details" >
+              <clipboard-copy value="https://github.com/ritaly/kursPython2021/blob/4690191b6ce6ef9f5215ce003edfc0e72c5cdb84/concept.py" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details" >
                 <span class="d-flex flex-items-baseline">
                   <span class="flex-auto">Copy permalink</span>
                 </span>
@@ -1305,17 +1313,74 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/ritaly/kursPython2021/contributors/main/concept.py" class="commit-loader">
-        <div class="Box-header Box-header--blue d-flex flex-items-center">
-          <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
-          <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
-        </div>
+      
+  <div class="Box-header Box-header--blue Details js-details-container">
+      <div class="d-flex flex-items-center">
+        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
+          <a rel="author" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/ritaly/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/ritaly"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/7140255?s=48&amp;v=4" width="24" height="24" alt="@ritaly" /></a>
+        </span>
+        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
+          <div class="css-truncate css-truncate-overflow">
+            <a class="text-bold Link--primary" rel="author" data-hovercard-type="user" data-hovercard-url="/users/ritaly/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/ritaly">ritaly</a>
 
-        <div class="Box-body d-flex flex-items-center" >
-          <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
-          <span class="color-text-danger h6 loader-error">Cannot retrieve contributors at this time</span>
+              <span>
+                <a data-pjax="true" title="add task" class="Link--secondary" href="/ritaly/kursPython2021/commit/4690191b6ce6ef9f5215ce003edfc0e72c5cdb84">add task</a>
+              </span>
+          </div>
+
+
+          <span class="ml-2">
+            <include-fragment accept="text/fragment+html" src="/ritaly/kursPython2021/commit/4690191b6ce6ef9f5215ce003edfc0e72c5cdb84/rollup?direction=e" class="d-inline"></include-fragment>
+          </span>
         </div>
-</include-fragment>    </div>
+        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-text-secondary no-wrap">
+          <span class="d-none d-md-inline">
+            <span>Latest commit</span>
+            <a class="text-small text-mono Link--secondary" href="/ritaly/kursPython2021/commit/4690191b6ce6ef9f5215ce003edfc0e72c5cdb84" data-pjax>4690191</a>
+            <span itemprop="dateModified"><relative-time datetime="2021-04-20T20:47:11Z" class="no-wrap">Apr 20, 2021</relative-time></span>
+          </span>
+
+          <a data-pjax href="/ritaly/kursPython2021/commits/main/concept.py" class="ml-3 no-wrap Link--primary no-underline">
+            <svg class="octicon octicon-history text-gray" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path></svg>
+            <span class="d-none d-sm-inline">
+              <strong>History</strong>
+            </span>
+          </a>
+        </div>
+      </div>
+
+  </div>
+
+  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
+    <details class="details-reset details-overlay details-overlay-dark lh-default color-text-primary float-left mr-3" id="blob_contributors_box">
+      <summary class="Link--primary">
+        <svg class="octicon octicon-people text-gray" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path></svg>
+        <strong>1</strong>
+        
+        contributor
+      </summary>
+      <details-dialog
+        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
+        aria-label="Users who have contributed to this file"
+        src="/ritaly/kursPython2021/contributors-list/main/concept.py" preload>
+        <div class="Box-header">
+          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+            <svg class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
+          </button>
+          <h3 class="Box-title">
+            Users who have contributed to this file
+          </h3>
+        </div>
+        <include-fragment>
+          <svg style="box-sizing: content-box; color: var(--color-icon-primary);" viewBox="0 0 16 16" fill="none" width="32" height="32" class="my-3 mx-auto d-block anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+        </include-fragment>
+      </details-dialog>
+    </details>
+  </div>
+    </div>
 
 
 
@@ -1335,9 +1400,9 @@
 <div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
 
-      68 lines (51 sloc)
+      95 lines (73 sloc)
       <span class="file-info-divider"></span>
-    1.93 KB
+    2.63 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
@@ -1356,13 +1421,13 @@
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 2.5h12.5a.25.25 0 01.25.25v7.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25v-7.5a.25.25 0 01.25-.25zM14.25 1H1.75A1.75 1.75 0 000 2.75v7.5C0 11.216.784 12 1.75 12h3.727c-.1 1.041-.52 1.872-1.292 2.757A.75.75 0 004.75 16h6.5a.75.75 0 00.565-1.243c-.772-.885-1.193-1.716-1.292-2.757h3.727A1.75 1.75 0 0016 10.25v-7.5A1.75 1.75 0 0014.25 1zM9.018 12H6.982a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5z"></path></svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/ritaly/kursPython2021/edit/main/concept.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="eFz4+rXJea7+zA56Cs1JYMC5b3S3OR7HHRYq9vJBxNPczJ4YHqpIVRzARhoAEm0TCX4/4VgBcit9MiINfT7SsA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/ritaly/kursPython2021/edit/main/concept.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="dc37wfyN/U9paPW+W3dDyyM7svsX9DfJ6iXLUKQYR6nRXZ0jV+7MtItkvd5RqGe46vzibvjMWyWKAcOrK2dRyg==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path></svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/ritaly/kursPython2021/delete/main/concept.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="nIjm5gugMoESl+f3kgz52S/UII5rX9Pke2xrSfXXFR8S+fCZqSBwchOm3w4OHqZA0OWXHEybUwa4j32TQHAqYw==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/ritaly/kursPython2021/delete/main/concept.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="MuoZgmGVc2E6UCaY/CYDiFlvACllBlTp1reVg/dFXB+8mw/9wxUxkjthHmFgNFwRpl63u0LC1AsVVINZQuJjYw==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg class="octicon octicon-trash" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path></svg>
@@ -1534,34 +1599,32 @@
       </tr>
       <tr>
         <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
-        <td id="LC38" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC38" class="blob-code blob-code-inner js-file-line">    <span class=pl-en>@<span class=pl-s1>classmethod</span></span></td>
       </tr>
       <tr>
         <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
-        <td id="LC39" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>app</span> <span class=pl-c1>=</span> <span class=pl-v>FastAPI</span>()</td>
+        <td id="LC39" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>def</span> <span class=pl-en>get_patient_by_id</span>(<span class=pl-s1>cls</span>, <span class=pl-s1>instance_id</span>):</td>
       </tr>
       <tr>
         <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
-        <td id="LC40" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC40" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>for</span> <span class=pl-s1>obj</span> <span class=pl-c1>in</span> <span class=pl-s1>cls</span>.<span class=pl-s1>instances</span>:</td>
       </tr>
       <tr>
         <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
-        <td id="LC41" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC41" class="blob-code blob-code-inner js-file-line">            <span class=pl-k>if</span> <span class=pl-s1>obj</span>.<span class=pl-s1>id</span> <span class=pl-c1>==</span> <span class=pl-s1>instance_id</span>:</td>
       </tr>
       <tr>
         <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
-        <td id="LC42" class="blob-code blob-code-inner js-file-line"><span class=pl-en>@<span class=pl-s1>app</span>.<span class=pl-en>get</span>(<span class=pl-s>&quot;/&quot;</span>)</span></td>
+        <td id="LC42" class="blob-code blob-code-inner js-file-line">                <span class=pl-k>return</span> <span class=pl-s1>obj</span></td>
       </tr>
       <tr>
         <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
-        <td id="LC43" class="blob-code blob-code-inner js-file-line"><span class=pl-k>def</span> <span class=pl-en>read_root</span>():</td>
+        <td id="LC43" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>return</span> <span class=pl-c1>None</span></td>
       </tr>
       <tr>
         <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
-        <td id="LC44" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>return</span> {<span class=pl-s>&quot;message&quot;</span>: <span class=pl-s>&quot;Hello world!&quot;</span>}</td>
+        <td id="LC44" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
@@ -1570,100 +1633,215 @@
       </tr>
       <tr>
         <td id="L46" class="blob-num js-line-number" data-line-number="46"></td>
-        <td id="LC46" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC46" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>app</span> <span class=pl-c1>=</span> <span class=pl-v>FastAPI</span>()</td>
       </tr>
       <tr>
         <td id="L47" class="blob-num js-line-number" data-line-number="47"></td>
-        <td id="LC47" class="blob-code blob-code-inner js-file-line"><span class=pl-en>@<span class=pl-s1>app</span>.<span class=pl-en>get</span>(<span class=pl-s>&quot;/auth&quot;</span>)</span></td>
+        <td id="LC47" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L48" class="blob-num js-line-number" data-line-number="48"></td>
-        <td id="LC48" class="blob-code blob-code-inner js-file-line"><span class=pl-k>def</span> <span class=pl-en>decrypt</span>(<span class=pl-s1>response</span>: <span class=pl-v>Response</span>, <span class=pl-s1>password</span>: <span class=pl-s1>str</span> <span class=pl-c1>=</span> <span class=pl-s>&#39;&#39;</span>, <span class=pl-s1>password_hash</span>: <span class=pl-s1>str</span> <span class=pl-c1>=</span> <span class=pl-s>&#39;&#39;</span>):</td>
+        <td id="LC48" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L49" class="blob-num js-line-number" data-line-number="49"></td>
-        <td id="LC49" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>encrypted_password</span> <span class=pl-c1>=</span> <span class=pl-s1>hashlib</span>.<span class=pl-en>sha512</span>(<span class=pl-s1>password</span>.<span class=pl-en>encode</span>(<span class=pl-s>&quot;utf-8&quot;</span>)).<span class=pl-en>hexdigest</span>()</td>
+        <td id="LC49" class="blob-code blob-code-inner js-file-line"><span class=pl-en>@<span class=pl-s1>app</span>.<span class=pl-en>get</span>(<span class=pl-s>&quot;/&quot;</span>)</span></td>
       </tr>
       <tr>
         <td id="L50" class="blob-num js-line-number" data-line-number="50"></td>
-        <td id="LC50" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>if</span> <span class=pl-s1>password_hash</span> <span class=pl-c1>==</span> <span class=pl-s1>encrypted_password</span>:</td>
+        <td id="LC50" class="blob-code blob-code-inner js-file-line"><span class=pl-k>def</span> <span class=pl-en>read_root</span>():</td>
       </tr>
       <tr>
         <td id="L51" class="blob-num js-line-number" data-line-number="51"></td>
-        <td id="LC51" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>response</span>.<span class=pl-s1>status_code</span> <span class=pl-c1>=</span> <span class=pl-s1>status</span>.<span class=pl-v>HTTP_204_NO_CONTENT</span></td>
+        <td id="LC51" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>return</span> {<span class=pl-s>&quot;message&quot;</span>: <span class=pl-s>&quot;Hello world!&quot;</span>}</td>
       </tr>
       <tr>
         <td id="L52" class="blob-num js-line-number" data-line-number="52"></td>
-        <td id="LC52" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>else</span>:</td>
+        <td id="LC52" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L53" class="blob-num js-line-number" data-line-number="53"></td>
-        <td id="LC53" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>response</span>.<span class=pl-s1>status_code</span> <span class=pl-c1>=</span> <span class=pl-s1>status</span>.<span class=pl-v>HTTP_401_UNAUTHORIZED</span></td>
+        <td id="LC53" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L54" class="blob-num js-line-number" data-line-number="54"></td>
-        <td id="LC54" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>return</span> <span class=pl-s1>response</span></td>
+        <td id="LC54" class="blob-code blob-code-inner js-file-line"><span class=pl-en>@<span class=pl-s1>app</span>.<span class=pl-en>get</span>(<span class=pl-s>&quot;/auth&quot;</span>)</span></td>
       </tr>
       <tr>
         <td id="L55" class="blob-num js-line-number" data-line-number="55"></td>
-        <td id="LC55" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC55" class="blob-code blob-code-inner js-file-line"><span class=pl-k>def</span> <span class=pl-en>decrypt</span>(<span class=pl-s1>response</span>: <span class=pl-v>Response</span>, <span class=pl-s1>password</span>: <span class=pl-s1>str</span> <span class=pl-c1>=</span> <span class=pl-s>&#39;&#39;</span>, <span class=pl-s1>password_hash</span>: <span class=pl-s1>str</span> <span class=pl-c1>=</span> <span class=pl-s>&#39;&#39;</span>):</td>
       </tr>
       <tr>
         <td id="L56" class="blob-num js-line-number" data-line-number="56"></td>
-        <td id="LC56" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC56" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>encrypted_password</span> <span class=pl-c1>=</span> <span class=pl-s1>hashlib</span>.<span class=pl-en>sha512</span>(<span class=pl-s1>password</span>.<span class=pl-en>encode</span>(<span class=pl-s>&quot;utf-8&quot;</span>)).<span class=pl-en>hexdigest</span>()</td>
       </tr>
       <tr>
         <td id="L57" class="blob-num js-line-number" data-line-number="57"></td>
-        <td id="LC57" class="blob-code blob-code-inner js-file-line"><span class=pl-en>@<span class=pl-s1>app</span>.<span class=pl-en>post</span>(<span class=pl-s>&quot;/register&quot;</span>)</span></td>
+        <td id="LC57" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>if</span> <span class=pl-s1>password_hash</span> <span class=pl-c1>==</span> <span class=pl-s1>encrypted_password</span>:</td>
       </tr>
       <tr>
         <td id="L58" class="blob-num js-line-number" data-line-number="58"></td>
-        <td id="LC58" class="blob-code blob-code-inner js-file-line"><span class=pl-k>async</span> <span class=pl-k>def</span> <span class=pl-en>create_user</span>(<span class=pl-s1>request</span>: <span class=pl-v>Request</span>, <span class=pl-s1>response</span>: <span class=pl-v>Response</span>, <span class=pl-s1>user</span>: <span class=pl-v>User</span>):</td>
+        <td id="LC58" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>response</span>.<span class=pl-s1>status_code</span> <span class=pl-c1>=</span> <span class=pl-s1>status</span>.<span class=pl-v>HTTP_204_NO_CONTENT</span></td>
       </tr>
       <tr>
         <td id="L59" class="blob-num js-line-number" data-line-number="59"></td>
-        <td id="LC59" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>try</span>:</td>
+        <td id="LC59" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>else</span>:</td>
       </tr>
       <tr>
         <td id="L60" class="blob-num js-line-number" data-line-number="60"></td>
-        <td id="LC60" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>date_as_datetime</span> <span class=pl-c1>=</span> <span class=pl-s1>datetime</span>.<span class=pl-en>strptime</span>(<span class=pl-s1>request</span>.<span class=pl-s1>headers</span>[<span class=pl-s>&#39;date&#39;</span>], <span class=pl-s>&#39;%a, %d %b %Y %H:%M:%S %Z&#39;</span>)</td>
+        <td id="LC60" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>response</span>.<span class=pl-s1>status_code</span> <span class=pl-c1>=</span> <span class=pl-s1>status</span>.<span class=pl-v>HTTP_401_UNAUTHORIZED</span></td>
       </tr>
       <tr>
         <td id="L61" class="blob-num js-line-number" data-line-number="61"></td>
-        <td id="LC61" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>register_date</span> <span class=pl-c1>=</span> <span class=pl-s1>date_as_datetime</span>.<span class=pl-en>strftime</span>(<span class=pl-s>&#39;%Y-%m-%d&#39;</span>)</td>
+        <td id="LC61" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>return</span> <span class=pl-s1>response</span></td>
       </tr>
       <tr>
         <td id="L62" class="blob-num js-line-number" data-line-number="62"></td>
-        <td id="LC62" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>except</span> <span class=pl-v>KeyError</span>:</td>
+        <td id="LC62" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L63" class="blob-num js-line-number" data-line-number="63"></td>
-        <td id="LC63" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>register_date</span> <span class=pl-c1>=</span> <span class=pl-en>str</span>(<span class=pl-s1>date</span>.<span class=pl-en>today</span>())</td>
+        <td id="LC63" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L64" class="blob-num js-line-number" data-line-number="64"></td>
-        <td id="LC64" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC64" class="blob-code blob-code-inner js-file-line"><span class=pl-en>@<span class=pl-s1>app</span>.<span class=pl-en>post</span>(<span class=pl-s>&quot;/register&quot;</span>)</span></td>
       </tr>
       <tr>
         <td id="L65" class="blob-num js-line-number" data-line-number="65"></td>
-        <td id="LC65" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>result</span> <span class=pl-c1>=</span> <span class=pl-v>RegisteredUser</span>(<span class=pl-s1>user</span>.<span class=pl-s1>name</span>, <span class=pl-s1>user</span>.<span class=pl-s1>surname</span>, <span class=pl-s1>register_date</span>)</td>
+        <td id="LC65" class="blob-code blob-code-inner js-file-line"><span class=pl-k>def</span> <span class=pl-en>create_user</span>(<span class=pl-s1>request</span>: <span class=pl-v>Request</span>, <span class=pl-s1>response</span>: <span class=pl-v>Response</span>, <span class=pl-s1>user</span>: <span class=pl-v>User</span>):</td>
       </tr>
       <tr>
         <td id="L66" class="blob-num js-line-number" data-line-number="66"></td>
-        <td id="LC66" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>response</span>.<span class=pl-s1>status_code</span> <span class=pl-c1>=</span> <span class=pl-s1>status</span>.<span class=pl-v>HTTP_201_CREATED</span></td>
+        <td id="LC66" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>try</span>:</td>
       </tr>
       <tr>
         <td id="L67" class="blob-num js-line-number" data-line-number="67"></td>
-        <td id="LC67" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC67" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>date_as_datetime</span> <span class=pl-c1>=</span> <span class=pl-s1>datetime</span>.<span class=pl-en>strptime</span>(<span class=pl-s1>request</span>.<span class=pl-s1>headers</span>[<span class=pl-s>&#39;date&#39;</span>], <span class=pl-s>&#39;%a, %d %b %Y %H:%M:%S %Z&#39;</span>)</td>
       </tr>
       <tr>
         <td id="L68" class="blob-num js-line-number" data-line-number="68"></td>
-        <td id="LC68" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>return</span> <span class=pl-s1>result</span>.<span class=pl-en>register_user</span>()</td>
+        <td id="LC68" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>register_date</span> <span class=pl-c1>=</span> <span class=pl-s1>date_as_datetime</span>.<span class=pl-en>strftime</span>(<span class=pl-s>&#39;%Y-%m-%d&#39;</span>)</td>
+      </tr>
+      <tr>
+        <td id="L69" class="blob-num js-line-number" data-line-number="69"></td>
+        <td id="LC69" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>except</span> <span class=pl-v>KeyError</span>:</td>
+      </tr>
+      <tr>
+        <td id="L70" class="blob-num js-line-number" data-line-number="70"></td>
+        <td id="LC70" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>register_date</span> <span class=pl-c1>=</span> <span class=pl-en>str</span>(<span class=pl-s1>date</span>.<span class=pl-en>today</span>())</td>
+      </tr>
+      <tr>
+        <td id="L71" class="blob-num js-line-number" data-line-number="71"></td>
+        <td id="LC71" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L72" class="blob-num js-line-number" data-line-number="72"></td>
+        <td id="LC72" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>result</span> <span class=pl-c1>=</span> <span class=pl-v>RegisteredUser</span>(<span class=pl-s1>user</span>.<span class=pl-s1>name</span>, <span class=pl-s1>user</span>.<span class=pl-s1>surname</span>, <span class=pl-s1>register_date</span>)</td>
+      </tr>
+      <tr>
+        <td id="L73" class="blob-num js-line-number" data-line-number="73"></td>
+        <td id="LC73" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>response</span>.<span class=pl-s1>status_code</span> <span class=pl-c1>=</span> <span class=pl-s1>status</span>.<span class=pl-v>HTTP_201_CREATED</span></td>
+      </tr>
+      <tr>
+        <td id="L74" class="blob-num js-line-number" data-line-number="74"></td>
+        <td id="LC74" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L75" class="blob-num js-line-number" data-line-number="75"></td>
+        <td id="LC75" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>return</span> <span class=pl-s1>result</span>.<span class=pl-en>register_user</span>()</td>
+      </tr>
+      <tr>
+        <td id="L76" class="blob-num js-line-number" data-line-number="76"></td>
+        <td id="LC76" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L77" class="blob-num js-line-number" data-line-number="77"></td>
+        <td id="LC77" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L78" class="blob-num js-line-number" data-line-number="78"></td>
+        <td id="LC78" class="blob-code blob-code-inner js-file-line"><span class=pl-en>@<span class=pl-s1>app</span>.<span class=pl-en>get</span>(<span class=pl-s>&quot;/patient/{patient_id}&quot;</span>)</span></td>
+      </tr>
+      <tr>
+        <td id="L79" class="blob-num js-line-number" data-line-number="79"></td>
+        <td id="LC79" class="blob-code blob-code-inner js-file-line"><span class=pl-k>def</span> <span class=pl-en>get_patient</span>(<span class=pl-s1>patient_id</span>: <span class=pl-s1>str</span>, <span class=pl-s1>response</span>: <span class=pl-v>Response</span>):</td>
+      </tr>
+      <tr>
+        <td id="L80" class="blob-num js-line-number" data-line-number="80"></td>
+        <td id="LC80" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>try</span>:</td>
+      </tr>
+      <tr>
+        <td id="L81" class="blob-num js-line-number" data-line-number="81"></td>
+        <td id="LC81" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>patient_id</span> <span class=pl-c1>=</span> <span class=pl-en>int</span>(<span class=pl-s1>patient_id</span>)</td>
+      </tr>
+      <tr>
+        <td id="L82" class="blob-num js-line-number" data-line-number="82"></td>
+        <td id="LC82" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>except</span> <span class=pl-v>ValueError</span>:</td>
+      </tr>
+      <tr>
+        <td id="L83" class="blob-num js-line-number" data-line-number="83"></td>
+        <td id="LC83" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>response</span>.<span class=pl-s1>status_code</span> <span class=pl-c1>=</span> <span class=pl-s1>status</span>.<span class=pl-v>HTTP_400_BAD_REQUEST</span></td>
+      </tr>
+      <tr>
+        <td id="L84" class="blob-num js-line-number" data-line-number="84"></td>
+        <td id="LC84" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>return</span> <span class=pl-s1>response</span></td>
+      </tr>
+      <tr>
+        <td id="L85" class="blob-num js-line-number" data-line-number="85"></td>
+        <td id="LC85" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L86" class="blob-num js-line-number" data-line-number="86"></td>
+        <td id="LC86" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>if</span> <span class=pl-s1>patient_id</span> <span class=pl-c1>&lt;</span> <span class=pl-c1>1</span>:</td>
+      </tr>
+      <tr>
+        <td id="L87" class="blob-num js-line-number" data-line-number="87"></td>
+        <td id="LC87" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>response</span>.<span class=pl-s1>status_code</span> <span class=pl-c1>=</span> <span class=pl-s1>status</span>.<span class=pl-v>HTTP_400_BAD_REQUEST</span></td>
+      </tr>
+      <tr>
+        <td id="L88" class="blob-num js-line-number" data-line-number="88"></td>
+        <td id="LC88" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>return</span> <span class=pl-s1>response</span></td>
+      </tr>
+      <tr>
+        <td id="L89" class="blob-num js-line-number" data-line-number="89"></td>
+        <td id="LC89" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L90" class="blob-num js-line-number" data-line-number="90"></td>
+        <td id="LC90" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>patient</span> <span class=pl-c1>=</span> <span class=pl-v>RegisteredUser</span>.<span class=pl-en>get_patient_by_id</span>(<span class=pl-s1>patient_id</span>)</td>
+      </tr>
+      <tr>
+        <td id="L91" class="blob-num js-line-number" data-line-number="91"></td>
+        <td id="LC91" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>if</span> <span class=pl-s1>patient</span>:</td>
+      </tr>
+      <tr>
+        <td id="L92" class="blob-num js-line-number" data-line-number="92"></td>
+        <td id="LC92" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>return</span> <span class=pl-s1>patient</span></td>
+      </tr>
+      <tr>
+        <td id="L93" class="blob-num js-line-number" data-line-number="93"></td>
+        <td id="LC93" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>else</span>:</td>
+      </tr>
+      <tr>
+        <td id="L94" class="blob-num js-line-number" data-line-number="94"></td>
+        <td id="LC94" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>response</span>.<span class=pl-s1>status_code</span> <span class=pl-c1>=</span> <span class=pl-s1>status</span>.<span class=pl-v>HTTP_404_NOT_FOUND</span></td>
+      </tr>
+      <tr>
+        <td id="L95" class="blob-num js-line-number" data-line-number="95"></td>
+        <td id="LC95" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>return</span> <span class=pl-s1>response</span></td>
       </tr>
 </table>
 
@@ -1683,7 +1861,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/ritaly/kursPython2021/blame/0f272e706c10257ef1f2b7270bd48e1ee500d792/concept.py">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/ritaly/kursPython2021/blame/4690191b6ce6ef9f5215ce003edfc0e72c5cdb84/concept.py">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/ritaly/kursPython2021/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
